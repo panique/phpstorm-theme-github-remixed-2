@@ -25,6 +25,11 @@ Same as above, but path is `~/Library/Preferences/WebIde80/colors/`.
 
 Same as above, but path is `~/.WebIde80/config/colors/`.
 
-### Using PHPStorm 7 or 9 ?
+### Using PHPStorm 7, 9 or 10 ?
 
-If you are using PHPStorm 7 or 9 then the folder is `WebIde70` or `WebIde90` for sure.
+If you are using PHPStorm 7, 9 or 10 then the folder is `WebIde70`, `WebIde90` or `WebIde100` for sure.
+
+### Problems ?
+
+If you cannot see the new theme then please go to Settings > Editor > Colors & Fonts and try to save the current theme, which will make PHPStorm create a new file like `Default copy.icls` inside the theme folder. Don't know why, but somehow this triggers a rescan of the the theme folder, usually fixing any "theme not found" issues.
+
