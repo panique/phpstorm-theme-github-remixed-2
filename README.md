@@ -21,9 +21,9 @@ Go to `C:\Users\XXXXXX\.WebIde80\config\colors` and place the .icls file there. 
 
 Same as above, but path is `~/Library/Preferences/WebIde80/colors/`.
 
-### Installation on Linux (PHPStorm 8)
+### Installation on Linux
 
-Same as above, but path is `~/.WebIde80/config/colors/`.
+For PHPStorm 8 path is `~/.WebIde80/config/colors/`, for PHPStorm 2016.X it's `~\.PhpStorm2016.X\config\colors`.
 
 ### Using PHPStorm 7, 9 or 10 ?
 
