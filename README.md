@@ -17,9 +17,9 @@ This is an experimental repo, not sure if this looks like it should look everywh
 Close PHPStorm if open.
 Go to `C:\Users\XXXXXX\.WebIde80\config\colors` and place the .icls file there. Open PHPStorm, go to *View -> Quick Switch Theme -> Switch Color Scheme* and select *GitHub Remixed 2*.
 
-### Installation on Mac OS (PHPStorm 8)
+### Installation on Mac OS (PHPStorm 8 - 2016.x)
 
-Same as above, but path is `~/Library/Preferences/WebIde80/colors/`.
+Same as above, but path is `~/Library/Preferences/WebIde80/colors/` or in later versions `~/Library/Preferences/PhpStorm2016.x/colors/` (x is your minor version number). If the folder "colors" does not exist, simply add him. To find this folder, right click the finder, click "go to folder" and enter `~/Library`, you'll find your way. 
 
 ### Installation on Linux
 
