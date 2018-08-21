@@ -31,5 +31,5 @@ If you are using PHPStorm 7, 9 or 10 then the folder is `WebIde70`, `WebIde90` o
 
 ### Problems ?
 
-If you cannot see the new theme then please go to Settings > Editor > Colors & Fonts and try to save the current theme, which will make PHPStorm create a new file like `Default copy.icls` inside the theme folder. Don't know why, but somehow this triggers a rescan of the the theme folder, usually fixing any "theme not found" issues.
+If you cannot see the new theme then please go to Settings > Editor > Colors & Fonts and try to save the current theme, which will make PHPStorm create a new file like `Default copy.icls` inside the theme folder. Don't know why, but somehow this triggers a rescan of the theme folder, usually fixing any "theme not found" issues.
 
